@@ -17,12 +17,6 @@ describe "Static pages" do
 	
 	end
 
-
-
-
-
-
-
   describe "Home page" do
 
     it "should have the h1 'Sample App'" do
