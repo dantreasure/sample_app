@@ -20,7 +20,11 @@ describe "Static pages" do
 	
 	end
 
+<<<<<<< HEAD
 describe "Home page" do
+=======
+  describe "Home page" do
+>>>>>>> ed7cb9d41f56a69765da2f8c8f28bb4a8ea53841
 
     it "should have the h1 'Sample App'" do
       visit '/static_pages/home'
